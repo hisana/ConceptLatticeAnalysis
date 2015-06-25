@@ -1,0 +1,320 @@
+(12_34 12_35 12_36 12_38 09_01 09_97 06_261 06_349 03_07 03_04 03_03 03_02 00_2 00_3 00_4 00_5 00_8 00_12 00_13 00_15 00_16 00_23 00_29 00_30 00_32 00_7 00_9 00_11 00_17 00_19 00_22 00_24 00_25 00_26 00_28 00_31 00_34 00_35 00_36 00_39 00_40 97_1 97_2 97_5 97_6 97_7 97_8 97_11 95_1 95_2 95_3 95_6 95_7 95_8 95_9 95_10 95_12 95_13 95_15 95_17 95_19 95_20 06_245 FORMS10_1 FORMS10_2 FORMS10_4 FORMS10_5 FORMS10_6 FORMS10_7 FORMS10_8 FORMS10_9 FORMS10_10 FORMS10_11 FORMS10_12 FORMS10_13 FORMS10_14 FORMS10_18 FORMS10_19 FORMS14_1 FORMS14_2 FORMS14_4 FORMS14_5 FORMS14_6 FORMS14_8 FORMS14_9 FORMS14_11 FORMS14_12 FORMS14_13 FORMS14_14 FORMS14_15 FORMS14_19 FORMS14_21 FORMS12_2 FORMS12_5 FORMS12_6 FORMS12_8 FORMS12_10 FORMS12_11 FORMS12_12 FORMS12_15 , Traffic Monitoring and Control ) 1
+(, The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling LinearTimeInvariantSystem UML PetriNets MILP Train Operation GA/AI/Fuzzy Agents Symbolic Algebra 2003 2006 2009 2012 Domain Specific Languages/Specification Discrete Time Model Continuous Time Model FMEA MaxPlusAlgebra Virtual Train Sets + Automatic Guided RAISESpecLanguage FormalRiskAnalysis StateTransitionSystems Neural Networks 2000 AST FTA Markov Models CASETool Physical/Mathematical Model Descriptive Model Analytical Model Scholarly Discussion VDM B-Method STEP Graph Theory Discrete Event Systems 1997 COTS Least Squares 1995 Distributed Computing Live Sequence Charts MDE Bayesian Networks STAMP Satellite Comms Automata HAZOP KroneckerAlgebra Lustre Discrete Mathematical Model InstructionList Boolean SAT Matlab Matrices CDFG ACSL(Frama-C) SADT Model ModelChecking Tool Chains PLCs iglosTerminologyModel eLSCLanguage Temporal Logic FailureLogicModelling XML StateCharts EFS(ERTMSFormalSpec) Abstract Syntax 2010 2014 ) 1
+(12_03 12_04 12_16 12_34 12_35 12_36 12_38 09_01 09_13 09_97 06_251 06_331 06_261 06_337 06_343 06_349 03_07 03_06 03_05 03_04 03_03 03_02 03_01 06_245 00_1 00_2 00_3 00_4 00_5 00_6 00_8 00_12 00_13 00_14 00_15 00_16 00_18 00_23 00_29 00_30 00_32 00_33 00_7 00_9 00_10 00_11 00_17 00_19 00_20 00_21 00_22 00_24 00_25 00_26 00_27 00_28 00_31 00_34 00_35 00_36 00_37 00_38 00_39 00_40 97_1 97_2 97_3 97_4 97_5 97_6 97_7 97_8 97_9 97_10 97_11 95_1 95_2 95_3 95_4 95_5 95_6 95_7 95_8 95_9 95_10 95_11 95_12 95_13 95_14 95_15 95_16 95_17 95_18 95_19 95_20 06_245 FORMS10_1 FORMS10_2 FORMS10_3 FORMS10_4 FORMS10_5 FORMS10_6 FORMS10_7 FORMS10_8 FORMS10_9 FORMS10_10 FORMS10_11 FORMS10_12 FORMS10_13 FORMS10_14 FORMS10_15 FORMS10_16 FORMS10_17 FORMS10_18 FORMS10_19 FORMS10_20 FORMS14_1 FORMS14_2 FORMS14_3 FORMS14_4 FORMS14_5 FORMS14_6 FORMS14_8 FORMS14_9 FORMS14_11 FORMS14_12 FORMS14_13 FORMS14_14 FORMS14_15 FORMS14_16 FORMS14_17 FORMS14_19 FORMS14_20 FORMS14_21 FORMS12_2 FORMS12_3 FORMS12_5 FORMS12_6 FORMS12_8 FORMS12_10 FORMS12_11 FORMS12_12 FORMS12_13 FORMS12_14 FORMS12_15 FORMS14_18 FORMS14_22 , ) 0.999999999999993
+(00_2 00_3 00_4 00_5 00_8 00_12 00_13 00_15 00_16 00_23 00_29 00_30 00_32 00_7 00_9 00_11 00_17 00_19 00_22 00_24 00_25 00_26 00_28 00_31 00_34 00_35 00_36 00_39 00_40 , Traffic Monitoring and Control 2000 ) 0.999999295920134
+(12_34 09_01 06_349 03_04 00_7 00_19 00_24 00_28 00_31 00_35 00_39 97_6 95_1 95_2 95_6 95_7 95_12 95_13 FORMS14_1 FORMS14_9 FORMS14_11 FORMS14_14 FORMS12_2 FORMS12_11 , Traffic Monitoring and Control Scholarly Discussion ) 0.999985098838806
+(12_34 09_01 06_251 06_349 03_04 00_7 00_19 00_20 00_21 00_24 00_28 00_31 00_35 00_37 00_39 97_6 97_9 97_10 95_1 95_2 95_6 95_7 95_11 95_12 95_13 FORMS14_1 FORMS14_9 FORMS14_11 FORMS14_14 FORMS14_17 FORMS14_20 FORMS12_2 FORMS12_3 FORMS12_11 FORMS12_13 FORMS12_14 FORMS14_18 , Scholarly Discussion ) 0.999877919784922
+(00_1 00_2 00_3 00_4 00_5 00_6 00_8 00_12 00_13 00_14 00_15 00_16 00_18 00_23 00_29 00_30 00_32 00_33 00_7 00_9 00_10 00_11 00_17 00_19 00_20 00_21 00_22 00_24 00_25 00_26 00_27 00_28 00_31 00_34 00_35 00_36 00_37 00_38 00_39 00_40 , 2000 ) 0.999511716938287
+(12_04 09_13 03_03 03_01 00_4 00_6 00_12 00_15 00_7 00_20 00_28 00_35 00_37 97_4 97_10 95_2 95_14 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_11 FORMS14_12 FORMS14_16 FORMS12_10 FORMS12_12 , The Net ) 0.999011229723692
+(06_251 00_18 00_10 00_27 00_28 00_35 00_38 97_11 95_13 95_14 95_16 FORMS10_1 FORMS10_3 FORMS10_13 FORMS10_18 FORMS14_3 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 FORMS14_22 , Train Operation ) 0.998721122741699
+(FORMS10_1 FORMS10_2 FORMS10_4 FORMS10_5 FORMS10_6 FORMS10_7 FORMS10_8 FORMS10_9 FORMS10_10 FORMS10_11 FORMS10_12 FORMS10_13 FORMS10_14 FORMS10_18 FORMS10_19 , Traffic Monitoring and Control 2010 ) 0.998382568359375
+(12_34 09_97 03_07 00_15 97_1 97_7 95_15 06_245 FORMS10_5 FORMS14_2 FORMS14_5 FORMS14_15 FORMS14_19 FORMS12_8 , Traffic Monitoring and Control PetriNets ) 0.998291015625
+(12_34 12_35 12_36 12_38 FORMS12_2 FORMS12_5 FORMS12_6 FORMS12_8 FORMS12_10 FORMS12_11 FORMS12_12 FORMS12_15 , Traffic Monitoring and Control 2012 ) 0.995361328125
+(95_1 95_2 95_3 95_6 95_7 95_8 95_9 95_10 95_12 95_13 95_15 95_17 95_19 95_20 , Traffic Monitoring and Control 1995 ) 0.99530029296875
+(FORMS14_1 FORMS14_2 FORMS14_4 FORMS14_5 FORMS14_6 FORMS14_8 FORMS14_9 FORMS14_11 FORMS14_12 FORMS14_13 FORMS14_14 FORMS14_15 FORMS14_19 FORMS14_21 , Traffic Monitoring and Control 2014 ) 0.99456787109375
+(09_13 00_2 00_4 00_25 00_26 00_27 00_38 00_39 97_4 95_2 95_3 95_4 95_19 FORMS10_5 FORMS10_8 FORMS10_11 FORMS10_12 FORMS10_14 FORMS10_16 FORMS10_17 , Physical/Mathematical Model ) 0.991981506347656
+(00_2 00_4 00_25 00_26 00_39 95_2 95_3 95_19 FORMS10_5 FORMS10_8 FORMS10_11 FORMS10_12 FORMS10_14 , Traffic Monitoring and Control Physical/Mathematical Model ) 0.9912109375
+(12_04 12_34 09_97 03_07 06_245 00_6 00_14 00_15 97_1 97_7 95_14 95_15 06_245 FORMS10_5 FORMS14_2 FORMS14_5 FORMS14_15 FORMS14_19 FORMS12_8 FORMS14_22 , PetriNets ) 0.984332084655762
+(95_1 95_2 95_3 95_4 95_5 95_6 95_7 95_8 95_9 95_10 95_11 95_12 95_13 95_14 95_15 95_16 95_17 95_18 95_19 95_20 , 1995 ) 0.984293937683105
+(FORMS14_1 FORMS14_2 FORMS14_3 FORMS14_4 FORMS14_5 FORMS14_6 FORMS14_8 FORMS14_9 FORMS14_11 FORMS14_12 FORMS14_13 FORMS14_14 FORMS14_15 FORMS14_16 FORMS14_17 FORMS14_19 FORMS14_20 FORMS14_21 FORMS14_18 FORMS14_22 , 2014 ) 0.984189033508301
+(12_03 12_04 12_16 12_34 12_35 12_36 12_38 FORMS12_2 FORMS12_3 FORMS12_5 FORMS12_6 FORMS12_8 FORMS12_10 FORMS12_11 FORMS12_12 FORMS12_13 FORMS12_14 FORMS12_15 , 2012 ) 0.984115600585938
+(03_03 00_4 00_12 00_15 00_7 00_28 00_35 95_2 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_11 FORMS14_12 FORMS12_10 FORMS12_12 , The Net Traffic Monitoring and Control ) 0.984031677246094
+(12_16 09_97 06_337 06_343 03_05 00_1 00_4 00_7 00_28 00_35 97_6 97_8 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_20 FORMS12_12 , Scheduling and Allocation ) 0.982369422912598
+(12_16 06_331 03_06 00_4 00_14 00_23 00_33 00_7 00_28 00_35 97_3 95_2 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Freight Handling ) 0.980278015136719
+(03_02 00_5 00_8 00_9 FORMS10_2 FORMS10_19 FORMS14_4 FORMS14_8 FORMS14_12 FORMS14_13 FORMS14_14 , Traffic Monitoring and Control Domain Specific Languages/Specification ) 0.97412109375
+(FORMS10_1 FORMS10_2 FORMS10_3 FORMS10_4 FORMS10_5 FORMS10_6 FORMS10_7 FORMS10_8 FORMS10_9 FORMS10_10 FORMS10_11 FORMS10_12 FORMS10_13 FORMS10_14 FORMS10_15 FORMS10_16 FORMS10_17 FORMS10_18 FORMS10_19 FORMS10_20 , 2010 ) 0.96863842010498
+(00_5 00_30 00_9 00_22 00_34 00_36 00_40 97_1 97_8 95_9 FORMS10_6 FORMS10_8 , Traffic Monitoring and Control Analytical Model ) 0.965576171875
+(06_343 03_07 03_05 00_1 00_16 00_18 00_17 97_4 97_8 95_8 95_17 , GA/AI/Fuzzy ) 0.953125
+(00_28 00_35 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation ) 0.943359375
+(95_1 95_2 95_6 95_7 95_12 95_13 , Traffic Monitoring and Control Scholarly Discussion 1995 ) 0.9375
+(03_02 03_01 00_5 00_8 00_9 00_10 FORMS10_2 FORMS10_17 FORMS10_19 FORMS10_20 FORMS14_4 FORMS14_8 FORMS14_12 FORMS14_13 FORMS14_14 , Domain Specific Languages/Specification ) 0.936065673828125
+(06_251 06_331 06_261 06_337 06_343 06_349 06_245 06_245 , 2006 ) 0.93359375
+(97_1 97_2 97_3 97_4 97_5 97_6 97_7 97_8 97_9 97_10 97_11 , 1997 ) 0.931640625
+(06_261 03_04 FORMS10_11 FORMS10_12 FORMS10_16 FORMS10_17 FORMS14_3 FORMS14_20 FORMS12_14 , FormalRiskAnalysis ) 0.9296875
+(00_7 00_19 00_24 00_28 00_31 00_35 00_39 , Traffic Monitoring and Control 2000 Scholarly Discussion ) 0.9296875
+(97_1 97_2 97_5 97_6 97_7 97_8 97_11 , Traffic Monitoring and Control 1997 ) 0.9140625
+(00_5 00_30 00_9 00_22 00_34 00_36 00_40 , Traffic Monitoring and Control 2000 Analytical Model ) 0.9140625
+(FORMS14_2 FORMS14_5 FORMS14_15 FORMS14_19 , Traffic Monitoring and Control PetriNets 2014 ) 0.875
+(09_97 00_4 00_7 00_28 00_35 97_6 97_8 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Scheduling and Allocation Traffic Monitoring and Control ) 0.874267578125
+(FORMS14_1 FORMS14_9 FORMS14_11 FORMS14_14 FORMS14_17 FORMS14_20 FORMS14_18 , Scholarly Discussion 2014 ) 0.8671875
+(00_5 00_6 00_14 00_30 00_9 00_22 00_34 00_36 00_40 97_1 97_4 97_8 95_9 FORMS10_6 FORMS10_8 , Analytical Model ) 0.862884521484375
+(12_34 FORMS12_2 FORMS12_3 FORMS12_11 FORMS12_13 FORMS12_14 , 2012 Scholarly Discussion ) 0.859375
+(00_18 00_10 00_27 00_28 00_35 00_38 , Train Operation 2000 ) 0.859375
+(06_261 00_23 00_34 97_11 95_8 95_19 , Traffic Monitoring and Control Virtual Train Sets + Automatic Guided ) 0.859375
+(03_07 00_16 00_17 97_8 95_8 95_17 , Traffic Monitoring and Control GA/AI/Fuzzy ) 0.859375
+(00_7 00_19 00_20 00_21 00_24 00_28 00_31 00_35 00_37 00_39 , 2000 Scholarly Discussion ) 0.8515625
+(00_2 00_4 00_25 00_26 00_39 , Traffic Monitoring and Control 2000 Physical/Mathematical Model ) 0.84375
+(03_07 03_06 03_05 03_04 03_03 03_02 03_01 , 2003 ) 0.828125
+(00_4 00_6 00_12 00_15 00_7 00_20 00_28 00_35 00_37 , The Net 2000 ) 0.82421875
+(FORMS10_5 FORMS10_8 FORMS10_11 FORMS10_12 FORMS10_14 , Traffic Monitoring and Control Physical/Mathematical Model 2010 ) 0.78125
+(00_7 00_20 00_28 00_35 00_37 97_10 95_2 FORMS14_11 , The Net Scholarly Discussion ) 0.77734375
+(00_4 00_8 00_23 00_38 97_2 95_14 FORMS10_16 , Descriptive Model ) 0.7578125
+(FORMS14_1 FORMS14_9 FORMS14_11 FORMS14_14 , Traffic Monitoring and Control Scholarly Discussion 2014 ) 0.75
+(00_30 00_40 , Traffic Monitoring and Control 2000 Markov Models Analytical Model ) 0.75
+(06_261 00_29 00_36 97_5 95_6 , Traffic Monitoring and Control FMEA ) 0.75
+(12_34 FORMS12_2 FORMS12_11 , Traffic Monitoring and Control 2012 Scholarly Discussion ) 0.75
+(00_16 00_17 , Traffic Monitoring and Control GA/AI/Fuzzy 2000 ) 0.75
+(12_38 09_97 95_20 FORMS10_18 FORMS12_5 , Traffic Monitoring and Control UML ) 0.75
+(00_7 00_20 00_28 00_35 00_37 , The Net 2000 Scholarly Discussion ) 0.75
+(00_28 00_35 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation 2000 Scholarly Discussion ) 0.75
+(12_03 06_245 00_4 00_7 00_28 00_35 FORMS10_1 FORMS10_7 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Timetables ) 0.74981689453125
+(00_28 00_35 97_11 95_13 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Traffic Monitoring and Control Train Operation ) 0.74755859375
+(00_4 00_7 00_28 00_35 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling ) 0.744140625
+(00_4 00_14 00_23 00_33 00_7 00_28 00_35 , Freight Handling 2000 ) 0.7421875
+(00_5 00_6 00_14 00_30 00_9 00_22 00_34 00_36 00_40 , 2000 Analytical Model ) 0.73828125
+(06_261 03_06 00_23 00_34 97_11 95_8 95_18 95_19 , Virtual Train Sets + Automatic Guided ) 0.72265625
+(00_2 00_4 00_25 00_26 00_27 00_38 00_39 , 2000 Physical/Mathematical Model ) 0.71875
+(00_4 00_12 00_15 00_7 00_28 00_35 , The Net Traffic Monitoring and Control 2000 ) 0.71875
+(12_16 00_2 00_22 00_36 97_9 FORMS10_6 , Discrete Time Model ) 0.703125
+(03_07 03_04 03_03 03_02 , Traffic Monitoring and Control 2003 ) 0.6875
+(06_343 03_05 00_1 97_8 , Scheduling and Allocation GA/AI/Fuzzy ) 0.6875
+(FORMS10_5 FORMS10_8 FORMS10_11 FORMS10_12 FORMS10_14 FORMS10_16 FORMS10_17 , Physical/Mathematical Model 2010 ) 0.65625
+(12_03 00_12 00_26 97_9 FORMS10_6 , Continuous Time Model ) 0.65625
+(FORMS14_4 FORMS14_8 FORMS14_12 FORMS14_13 FORMS14_14 , Traffic Monitoring and Control Domain Specific Languages/Specification 2014 ) 0.65625
+(FORMS10_11 FORMS10_12 FORMS10_16 FORMS10_17 , FormalRiskAnalysis Physical/Mathematical Model 2010 ) 0.625
+(00_1 00_16 00_18 00_17 , GA/AI/Fuzzy 2000 ) 0.625
+(95_13 95_14 95_16 , Train Operation 1995 ) 0.625
+(95_2 95_3 95_19 , Traffic Monitoring and Control Physical/Mathematical Model 1995 ) 0.625
+(06_261 03_04 FORMS10_11 FORMS10_12 , Traffic Monitoring and Control FormalRiskAnalysis ) 0.625
+(03_02 00_8 FORMS14_12 FORMS14_14 , Traffic Monitoring and Control Domain Specific Languages/Specification RAISESpecLanguage ) 0.625
+(12_04 00_6 00_15 95_14 , The Net PetriNets ) 0.625
+(FORMS10_1 FORMS10_13 FORMS10_18 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation 2010 ) 0.625
+(FORMS14_3 FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_22 , Train Operation 2014 ) 0.59375
+(FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_11 FORMS14_12 , The Net Traffic Monitoring and Control 2014 ) 0.59375
+(FORMS10_2 FORMS10_17 FORMS10_19 FORMS10_20 , Domain Specific Languages/Specification 2010 ) 0.5625
+(09_13 00_4 97_4 95_2 , The Net Physical/Mathematical Model ) 0.5625
+(FORMS10_18 FORMS14_4 FORMS14_8 FORMS12_12 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation MDE ) 0.5625
+(97_2 95_5 FORMS10_3 , COTS ) 0.5
+(95_5 , COTS 1995 ) 0.5
+(95_11 , Scholarly Discussion 1995 Distributed Computing ) 0.5
+(97_6 97_9 97_10 , Scholarly Discussion 1997 ) 0.5
+(95_2 95_3 95_4 95_19 , Physical/Mathematical Model 1995 ) 0.5
+(03_04 FORMS14_20 FORMS12_14 , FormalRiskAnalysis Scholarly Discussion ) 0.5
+(FORMS10_16 , FormalRiskAnalysis Physical/Mathematical Model Descriptive Model 2010 ) 0.5
+(95_8 95_18 95_19 , Virtual Train Sets + Automatic Guided 1995 ) 0.5
+(97_9 , Discrete Time Model Continuous Time Model Scholarly Discussion 1997 ) 0.5
+(FORMS10_20 , Domain Specific Languages/Specification Discrete Mathematical Model InstructionList Boolean SAT CDFG PLCs 2010 ) 0.5
+(FORMS10_17 , Domain Specific Languages/Specification FormalRiskAnalysis Physical/Mathematical Model Matrices 2010 ) 0.5
+(FORMS12_14 , 2012 FormalRiskAnalysis Scholarly Discussion ) 0.5
+(00_1 97_4 95_8 , GA/AI/Fuzzy Neural Networks ) 0.5
+(FORMS10_3 , Train Operation Markov Models COTS 2010 ) 0.5
+(00_27 00_38 , Train Operation 2000 Physical/Mathematical Model ) 0.5
+(00_38 , Train Operation 2000 Physical/Mathematical Model Descriptive Model ) 0.5
+(FORMS14_3 , Train Operation FormalRiskAnalysis FTA Bayesian Networks 2014 ) 0.5
+(00_10 , Train Operation Domain Specific Languages/Specification 2000 B-Method ) 0.5
+(06_251 , Train Operation 2006 Scholarly Discussion ) 0.5
+(00_18 , Train Operation GA/AI/Fuzzy 2000 ) 0.5
+(FORMS14_22 , PetriNets Train Operation MDE 2014 ) 0.5
+(97_3 , Freight Handling 1997 Least Squares ) 0.5
+(06_331 , Freight Handling 2006 ) 0.5
+(03_06 , Freight Handling Agents 2003 Virtual Train Sets + Automatic Guided ) 0.5
+(00_14 , Freight Handling PetriNets 2000 Markov Models Analytical Model ) 0.5
+(FORMS10_9 , Traffic Monitoring and Control ModelChecking 2010 ) 0.5
+(FORMS14_21 , Traffic Monitoring and Control MDE HAZOP 2014 ) 0.5
+(FORMS14_1 , Traffic Monitoring and Control Scholarly Discussion STAMP 2014 ) 0.5
+(95_9 , Traffic Monitoring and Control Analytical Model 1995 ) 0.5
+(97_2 , Traffic Monitoring and Control Descriptive Model 1997 COTS ) 0.5
+(FORMS10_14 , Traffic Monitoring and Control Physical/Mathematical Model Matlab 2010 ) 0.5
+(FORMS10_8 , Traffic Monitoring and Control Physical/Mathematical Model Analytical Model 2010 ) 0.5
+(00_11 , Traffic Monitoring and Control 2000 STEP ) 0.5
+(00_39 , Traffic Monitoring and Control 2000 Physical/Mathematical Model Scholarly Discussion ) 0.5
+(00_13 00_29 , Traffic Monitoring and Control 2000 FTA ) 0.5
+(FORMS10_11 FORMS10_12 , Traffic Monitoring and Control FormalRiskAnalysis Physical/Mathematical Model 2010 ) 0.5
+(FORMS10_11 , Traffic Monitoring and Control FormalRiskAnalysis Physical/Mathematical Model SADT Model 2010 ) 0.5
+(95_19 , Traffic Monitoring and Control Virtual Train Sets + Automatic Guided Physical/Mathematical Model 1995 ) 0.5
+(00_34 , Traffic Monitoring and Control Virtual Train Sets + Automatic Guided 2000 Analytical Model ) 0.5
+(97_5 , Traffic Monitoring and Control FMEA 1997 ) 0.5
+(95_6 , Traffic Monitoring and Control FMEA Scholarly Discussion 1995 ) 0.5
+(00_29 , Traffic Monitoring and Control FMEA 2000 FTA ) 0.5
+(00_26 , Traffic Monitoring and Control Continuous Time Model 2000 Physical/Mathematical Model ) 0.5
+(00_22 , Traffic Monitoring and Control Discrete Time Model 2000 Analytical Model Graph Theory ) 0.5
+(00_2 , Traffic Monitoring and Control Discrete Time Model 2000 Physical/Mathematical Model ) 0.5
+(FORMS10_6 , Traffic Monitoring and Control Discrete Time Model Continuous Time Model Markov Models Analytical Model 2010 ) 0.5
+(FORMS10_19 , Traffic Monitoring and Control Domain Specific Languages/Specification InstructionList PLCs 2010 ) 0.5
+(FORMS10_2 , Traffic Monitoring and Control Domain Specific Languages/Specification Lustre 2010 ) 0.5
+(FORMS14_13 , Traffic Monitoring and Control Domain Specific Languages/Specification B-Method Discrete Mathematical Model 2014 ) 0.5
+(00_5 00_9 , Traffic Monitoring and Control Domain Specific Languages/Specification 2000 Analytical Model ) 0.5
+(00_9 , Traffic Monitoring and Control Domain Specific Languages/Specification 2000 Analytical Model VDM ) 0.5
+(FORMS14_14 , Traffic Monitoring and Control Domain Specific Languages/Specification RAISESpecLanguage Scholarly Discussion 2014 ) 0.5
+(00_8 , Traffic Monitoring and Control Domain Specific Languages/Specification RAISESpecLanguage 2000 Descriptive Model ) 0.5
+(FORMS12_6 , Traffic Monitoring and Control 2012 EFS(ERTMSFormalSpec) ) 0.5
+(FORMS12_15 , Traffic Monitoring and Control 2012 KroneckerAlgebra ) 0.5
+(09_01 , Traffic Monitoring and Control 2009 Scholarly Discussion ) 0.5
+(06_261 06_349 06_245 , Traffic Monitoring and Control 2006 ) 0.5
+(06_349 , Traffic Monitoring and Control 2006 Scholarly Discussion ) 0.5
+(03_04 , Traffic Monitoring and Control 2003 FormalRiskAnalysis Scholarly Discussion ) 0.5
+(03_02 , Traffic Monitoring and Control 2003 Domain Specific Languages/Specification RAISESpecLanguage ) 0.5
+(12_35 , Traffic Monitoring and Control Symbolic Algebra 2012 ) 0.5
+(00_3 00_36 , Traffic Monitoring and Control Agents 2000 ) 0.5
+(00_36 , Traffic Monitoring and Control Agents Discrete Time Model FMEA 2000 Analytical Model Discrete Event Systems ) 0.5
+(06_261 , Traffic Monitoring and Control Agents 2006 FMEA Virtual Train Sets + Automatic Guided FormalRiskAnalysis ) 0.5
+(95_8 95_17 , Traffic Monitoring and Control GA/AI/Fuzzy 1995 ) 0.5
+(95_8 , Traffic Monitoring and Control GA/AI/Fuzzy Virtual Train Sets + Automatic Guided Neural Networks 1995 ) 0.5
+(95_13 , Traffic Monitoring and Control Train Operation Scholarly Discussion 1995 ) 0.5
+(97_11 , Traffic Monitoring and Control Train Operation Virtual Train Sets + Automatic Guided 1997 ) 0.5
+(FORMS14_5 , Traffic Monitoring and Control PetriNets ModelChecking 2014 ) 0.5
+(95_15 , Traffic Monitoring and Control PetriNets 1995 ) 0.5
+(97_1 97_7 , Traffic Monitoring and Control PetriNets 1997 ) 0.5
+(97_1 , Traffic Monitoring and Control PetriNets Analytical Model 1997 ) 0.5
+(FORMS10_5 , Traffic Monitoring and Control PetriNets Physical/Mathematical Model 2010 ) 0.5
+(12_34 FORMS12_8 , Traffic Monitoring and Control PetriNets 2012 ) 0.5
+(12_34 , Traffic Monitoring and Control PetriNets 2012 Scholarly Discussion ) 0.5
+(06_245 , Traffic Monitoring and Control PetriNets 2006 Discrete Event Systems ) 0.5
+(03_07 , Traffic Monitoring and Control PetriNets GA/AI/Fuzzy 2003 ) 0.5
+(95_20 , Traffic Monitoring and Control UML 1995 ) 0.5
+(12_38 FORMS12_5 , Traffic Monitoring and Control UML 2012 ) 0.5
+(FORMS12_5 , Traffic Monitoring and Control UML 2012 Abstract Syntax ) 0.5
+(00_23 , Traffic Monitoring and Control Freight Handling Virtual Train Sets + Automatic Guided 2000 CASETool Descriptive Model ) 0.5
+(FORMS14_20 , Scheduling and Allocation FormalRiskAnalysis Scholarly Discussion 2014 ) 0.5
+(06_337 06_343 , Scheduling and Allocation 2006 ) 0.5
+(00_1 , Scheduling and Allocation GA/AI/Fuzzy Neural Networks 2000 ) 0.5
+(03_05 , Scheduling and Allocation GA/AI/Fuzzy 2003 ) 0.5
+(06_343 , Scheduling and Allocation MILP GA/AI/Fuzzy 2006 MaxPlusAlgebra ) 0.5
+(12_16 , Scheduling and Allocation Rolling Stock Freight Handling MILP 2012 Discrete Time Model ) 0.5
+(97_6 , Scheduling and Allocation Traffic Monitoring and Control Scholarly Discussion 1997 ) 0.5
+(97_8 , Scheduling and Allocation Traffic Monitoring and Control GA/AI/Fuzzy Analytical Model 1997 ) 0.5
+(09_97 , Scheduling and Allocation Traffic Monitoring and Control UML PetriNets 2009 ) 0.5
+(12_03 , Timetables MILP 2012 Continuous Time Model ) 0.5
+(06_245 , Timetables PetriNets 2006 MaxPlusAlgebra ) 0.5
+(FORMS10_7 , Timetables Traffic Monitoring and Control Discrete Mathematical Model 2010 ) 0.5
+(FORMS14_16 , The Net Automata StateCharts 2014 ) 0.5
+(97_10 , The Net Scholarly Discussion 1997 ) 0.5
+(03_01 , The Net 2003 Domain Specific Languages/Specification RAISESpecLanguage ) 0.5
+(97_4 , The Net GA/AI/Fuzzy Neural Networks Physical/Mathematical Model Analytical Model 1997 ) 0.5
+(00_6 , The Net PetriNets 2000 Analytical Model ) 0.5
+(12_04 , The Net PetriNets 2012 ) 0.5
+(95_14 , The Net PetriNets Train Operation Descriptive Model Discrete Event Systems 1995 ) 0.5
+(09_13 , The Net Rolling Stock LinearTimeInvariantSystem 2009 Physical/Mathematical Model ) 0.5
+(FORMS14_11 , The Net Traffic Monitoring and Control Scholarly Discussion 2014 ) 0.5
+(00_12 , The Net Traffic Monitoring and Control Continuous Time Model 2000 AST ) 0.5
+(FORMS14_12 , The Net Traffic Monitoring and Control Domain Specific Languages/Specification RAISESpecLanguage 2014 ) 0.5
+(FORMS12_10 , The Net Traffic Monitoring and Control 2012 STAMP ) 0.5
+(03_03 , The Net Traffic Monitoring and Control 2003 StateTransitionSystems ) 0.5
+(00_15 , The Net Traffic Monitoring and Control PetriNets 2000 ) 0.5
+(95_2 , The Net Traffic Monitoring and Control Passenger Handling Freight Handling Physical/Mathematical Model Scholarly Discussion 1995 ) 0.5
+(00_7 00_28 00_35 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling 2000 Scholarly Discussion ) 0.5
+(00_4 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling 2000 Physical/Mathematical Model Descriptive Model ) 0.5
+(FORMS10_13 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation ACSL(Frama-C) 2010 ) 0.5
+(FORMS14_6 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation Live Sequence Charts Discrete Mathematical Model eLSCLanguage Temporal Logic 2014 ) 0.5
+(FORMS14_8 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation Domain Specific Languages/Specification MDE FailureLogicModelling XML 2014 ) 0.5
+(FORMS14_4 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation Domain Specific Languages/Specification MDE iglosTerminologyModel 2014 ) 0.5
+(FORMS12_12 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation 2012 MDE Tool Chains ) 0.5
+(FORMS10_18 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling UML Train Operation MDE Tool Chains 2010 ) 0.5
+(12_16 00_4 00_7 00_28 00_35 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Scheduling and Allocation Rolling Stock Freight Handling ) 0.49951171875
+(09_13 00_4 00_7 00_28 00_35 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , The Net Rolling Stock ) 0.49951171875
+(00_28 00_35 95_14 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , The Net Train Operation ) 0.4990234375
+(00_4 00_23 00_7 00_28 00_35 95_2 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Traffic Monitoring and Control Freight Handling ) 0.498046875
+(00_4 00_7 00_28 00_35 FORMS10_1 FORMS10_7 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Timetables Traffic Monitoring and Control ) 0.497802734375
+(00_4 00_7 00_28 00_35 95_2 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , The Net Traffic Monitoring and Control Passenger Handling Freight Handling ) 0.497802734375
+(95_1 95_2 95_6 95_7 95_11 95_12 95_13 , Scholarly Discussion 1995 ) 0.4921875
+(FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_11 FORMS14_12 FORMS14_16 , The Net 2014 ) 0.484375
+(FORMS14_2 FORMS14_5 FORMS14_15 FORMS14_19 FORMS14_22 , PetriNets 2014 ) 0.46875
+(00_7 00_28 00_35 97_6 FORMS14_20 , Scheduling and Allocation Scholarly Discussion ) 0.46875
+(00_1 00_4 00_7 00_28 00_35 , Scheduling and Allocation 2000 ) 0.46875
+(00_7 00_28 00_35 95_2 FORMS14_11 , The Net Traffic Monitoring and Control Scholarly Discussion ) 0.46875
+(00_14 00_30 00_40 FORMS10_3 FORMS10_6 , Markov Models ) 0.4375
+(00_5 00_8 00_9 00_10 , Domain Specific Languages/Specification 2000 ) 0.4375
+(FORMS10_1 FORMS10_3 FORMS10_13 FORMS10_18 , Train Operation 2010 ) 0.4375
+(06_251 00_28 00_35 95_13 , Train Operation Scholarly Discussion ) 0.4375
+(00_4 00_8 00_23 97_2 , Traffic Monitoring and Control Descriptive Model ) 0.4375
+(00_4 00_23 00_7 00_28 00_35 , Traffic Monitoring and Control Freight Handling 2000 ) 0.4375
+(FORMS14_4 FORMS14_6 FORMS14_8 FORMS14_20 , Scheduling and Allocation 2014 ) 0.4375
+(00_7 00_28 00_35 97_6 , Scheduling and Allocation Traffic Monitoring and Control Scholarly Discussion ) 0.4375
+(FORMS10_1 FORMS10_7 FORMS10_13 FORMS10_18 , Timetables Traffic Monitoring and Control 2010 ) 0.4375
+(00_7 00_28 00_35 95_2 , The Net Traffic Monitoring and Control Passenger Handling Freight Handling Scholarly Discussion ) 0.4375
+(00_4 00_7 00_28 00_35 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling 2000 ) 0.4375
+(03_02 03_01 00_8 FORMS14_12 FORMS14_14 , Domain Specific Languages/Specification RAISESpecLanguage ) 0.40625
+(00_4 00_38 FORMS10_16 , Physical/Mathematical Model Descriptive Model ) 0.375
+(00_13 00_29 FORMS14_3 , FTA ) 0.375
+(00_4 00_8 00_23 00_38 , 2000 Descriptive Model ) 0.375
+(00_14 00_30 00_40 , 2000 Markov Models Analytical Model ) 0.375
+(09_01 09_13 09_97 , 2009 ) 0.375
+(06_261 03_06 00_3 00_36 , Agents ) 0.375
+(FORMS10_18 FORMS14_4 FORMS14_8 FORMS12_12 FORMS14_22 , Train Operation MDE ) 0.375
+(FORMS14_4 FORMS14_8 FORMS14_22 , Train Operation MDE 2014 ) 0.375
+(00_10 FORMS14_4 FORMS14_8 , Train Operation Domain Specific Languages/Specification ) 0.375
+(00_6 00_14 97_1 , PetriNets Analytical Model ) 0.375
+(12_04 12_34 FORMS12_8 , PetriNets 2012 ) 0.375
+(FORMS10_18 FORMS14_4 FORMS14_8 FORMS14_21 FORMS12_12 , Traffic Monitoring and Control MDE ) 0.375
+(FORMS14_4 FORMS14_8 FORMS14_21 , Traffic Monitoring and Control MDE 2014 ) 0.375
+(00_30 00_40 FORMS10_6 , Traffic Monitoring and Control Markov Models Analytical Model ) 0.375
+(00_4 00_8 00_23 , Traffic Monitoring and Control 2000 Descriptive Model ) 0.375
+(00_12 00_26 FORMS10_6 , Traffic Monitoring and Control Continuous Time Model ) 0.375
+(00_22 00_36 FORMS10_6 , Traffic Monitoring and Control Discrete Time Model Analytical Model ) 0.375
+(00_2 00_22 00_36 , Traffic Monitoring and Control Discrete Time Model 2000 ) 0.375
+(00_5 00_8 00_9 , Traffic Monitoring and Control Domain Specific Languages/Specification 2000 ) 0.375
+(00_28 00_35 95_13 , Traffic Monitoring and Control Train Operation Scholarly Discussion ) 0.375
+(03_01 FORMS14_4 FORMS14_8 FORMS14_12 , The Net Domain Specific Languages/Specification ) 0.375
+(12_04 FORMS12_10 FORMS12_12 , The Net 2012 ) 0.375
+(FORMS14_4 FORMS14_8 FORMS14_12 , The Net Traffic Monitoring and Control Domain Specific Languages/Specification 2014 ) 0.375
+(FORMS14_4 FORMS14_6 FORMS14_8 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation 2014 ) 0.375
+(FORMS10_7 FORMS10_20 FORMS14_6 FORMS14_13 , Discrete Mathematical Model ) 0.3125
+(FORMS10_7 FORMS10_20 , Discrete Mathematical Model 2010 ) 0.25
+(FORMS14_4 FORMS14_8 FORMS14_21 FORMS14_22 , MDE 2014 ) 0.25
+(00_36 95_14 06_245 , Discrete Event Systems ) 0.25
+(97_1 97_4 97_8 , Analytical Model 1997 ) 0.25
+(97_4 FORMS10_8 , Physical/Mathematical Model Analytical Model ) 0.25
+(FORMS10_3 FORMS10_6 , Markov Models 2010 ) 0.25
+(00_14 00_30 00_40 FORMS10_6 , Markov Models Analytical Model ) 0.25
+(00_4 00_38 , 2000 Physical/Mathematical Model Descriptive Model ) 0.25
+(FORMS14_3 FORMS14_20 , FormalRiskAnalysis 2014 ) 0.25
+(97_9 FORMS10_6 , Discrete Time Model Continuous Time Model ) 0.25
+(FORMS10_19 FORMS10_20 , Domain Specific Languages/Specification InstructionList PLCs 2010 ) 0.25
+(FORMS10_20 FORMS14_13 , Domain Specific Languages/Specification Discrete Mathematical Model ) 0.25
+(00_10 FORMS14_13 , Domain Specific Languages/Specification B-Method ) 0.25
+(06_251 06_349 , 2006 Scholarly Discussion ) 0.25
+(06_343 06_245 , 2006 MaxPlusAlgebra ) 0.25
+(03_02 03_01 , 2003 Domain Specific Languages/Specification RAISESpecLanguage ) 0.25
+(06_261 03_06 , Agents Virtual Train Sets + Automatic Guided ) 0.25
+(97_4 97_8 , GA/AI/Fuzzy Analytical Model 1997 ) 0.25
+(03_07 03_05 , GA/AI/Fuzzy 2003 ) 0.25
+(00_38 95_14 , Train Operation Descriptive Model ) 0.25
+(12_03 12_16 06_343 , MILP ) 0.25
+(12_03 12_16 , MILP 2012 ) 0.25
+(95_14 95_15 , PetriNets 1995 ) 0.25
+(95_14 06_245 , PetriNets Discrete Event Systems ) 0.25
+(00_6 00_14 00_15 , PetriNets 2000 ) 0.25
+(00_6 00_14 , PetriNets 2000 Analytical Model ) 0.25
+(06_245 06_245 , PetriNets 2006 ) 0.25
+(95_14 FORMS14_22 , PetriNets Train Operation ) 0.25
+(03_06 00_23 , Freight Handling Virtual Train Sets + Automatic Guided ) 0.25
+(12_16 09_13 00_4 00_7 00_28 00_35 FORMS10_1 FORMS10_13 FORMS10_18 FORMS14_4 FORMS14_6 FORMS14_8 FORMS12_12 , Rolling Stock ) 0.25
+(FORMS10_9 FORMS14_5 , Traffic Monitoring and Control ModelChecking ) 0.25
+(FORMS10_7 FORMS14_6 FORMS14_13 , Traffic Monitoring and Control Discrete Mathematical Model ) 0.25
+(FORMS14_6 FORMS14_13 , Traffic Monitoring and Control Discrete Mathematical Model 2014 ) 0.25
+(FORMS14_1 FORMS12_10 , Traffic Monitoring and Control STAMP ) 0.25
+(00_36 06_245 , Traffic Monitoring and Control Discrete Event Systems ) 0.25
+(FORMS10_6 FORMS10_8 , Traffic Monitoring and Control Analytical Model 2010 ) 0.25
+(97_1 97_8 , Traffic Monitoring and Control Analytical Model 1997 ) 0.25
+(00_39 95_2 , Traffic Monitoring and Control Physical/Mathematical Model Scholarly Discussion ) 0.25
+(95_8 95_19 , Traffic Monitoring and Control Virtual Train Sets + Automatic Guided 1995 ) 0.25
+(00_23 00_34 , Traffic Monitoring and Control Virtual Train Sets + Automatic Guided 2000 ) 0.25
+(00_29 00_36 , Traffic Monitoring and Control FMEA 2000 ) 0.25
+(00_12 00_26 , Traffic Monitoring and Control Continuous Time Model 2000 ) 0.25
+(00_2 00_22 00_36 FORMS10_6 , Traffic Monitoring and Control Discrete Time Model ) 0.25
+(00_22 00_36 , Traffic Monitoring and Control Discrete Time Model 2000 Analytical Model ) 0.25
+(FORMS10_2 FORMS10_19 , Traffic Monitoring and Control Domain Specific Languages/Specification 2010 ) 0.25
+(FORMS14_12 FORMS14_14 , Traffic Monitoring and Control Domain Specific Languages/Specification RAISESpecLanguage 2014 ) 0.25
+(09_01 09_97 , Traffic Monitoring and Control 2009 ) 0.25
+(06_261 00_3 00_36 , Traffic Monitoring and Control Agents ) 0.25
+(06_261 00_36 , Traffic Monitoring and Control Agents FMEA ) 0.25
+(00_4 00_23 , Traffic Monitoring and Control Freight Handling 2000 Descriptive Model ) 0.25
+(12_16 06_343 , Scheduling and Allocation MILP ) 0.25
+(12_16 FORMS12_12 , Scheduling and Allocation Rolling Stock Freight Handling 2012 ) 0.25
+(97_6 97_8 , Scheduling and Allocation Traffic Monitoring and Control 1997 ) 0.25
+(09_97 FORMS10_18 , Scheduling and Allocation Traffic Monitoring and Control UML ) 0.25
+(12_03 FORMS12_12 , Timetables 2012 ) 0.25
+(FORMS10_7 FORMS14_6 , Timetables Traffic Monitoring and Control Discrete Mathematical Model ) 0.25
+(95_2 95_14 , The Net 1995 ) 0.25
+(97_4 97_10 , The Net 1997 ) 0.25
+(00_6 97_4 , The Net Analytical Model ) 0.25
+(00_4 95_14 , The Net Descriptive Model ) 0.25
+(03_01 FORMS14_12 , The Net Domain Specific Languages/Specification RAISESpecLanguage ) 0.25
+(03_03 03_01 , The Net 2003 ) 0.25
+(00_6 00_15 , The Net PetriNets 2000 ) 0.25
+(09_13 00_4 , The Net Rolling Stock Physical/Mathematical Model ) 0.25
+(FORMS12_10 FORMS12_12 , The Net Traffic Monitoring and Control 2012 ) 0.25
+(00_4 95_2 , The Net Traffic Monitoring and Control Passenger Handling Freight Handling Physical/Mathematical Model ) 0.25
+(FORMS10_18 FORMS12_12 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation MDE Tool Chains ) 0.25
+(FORMS14_4 FORMS14_8 , The Net Timetables Scheduling and Allocation Traffic Monitoring and Control Rolling Stock Passenger Handling Freight Handling Train Operation Domain Specific Languages/Specification MDE 2014 ) 0.25
+(FORMS10_18 FORMS14_4 FORMS14_8 FORMS14_21 FORMS12_12 FORMS14_22 , MDE ) 0.1875
